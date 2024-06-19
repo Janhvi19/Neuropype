@@ -1,1 +1,1 @@
-# Neuropype-
+# Neuropype
